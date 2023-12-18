@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedalamin&label=Profile%20views&color=0e75b6&style=flat" alt="syedalamin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/syedprogrammer" target="blank"><img src="https://img.shields.io/twitter/follow/syedprogrammer?logo=twitter&style=for-the-badge" alt="syedprogrammer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/syed_alamin_dev" target="blank"><img src="https://img.shields.io/twitter/follow/syed_alamin_dev?logo=twitter&style=for-the-badge" alt="syed_alamin_dev" /></a> </p>
 
 - 🔭 I’m currently working on **Hello CoderX**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/syedprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedprogrammer" height="30" width="40" /></a>
+<a href="https://twitter.com/syed_alamin_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed_alamin_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syedalamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedalamin" height="30" width="40" /></a>
 </p>
 
